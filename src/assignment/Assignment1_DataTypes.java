@@ -1,5 +1,7 @@
 package assignment;
 
+import java.util.logging.Logger;
+
 public class Assignment1_DataTypes {
 
 	public static void main(String[] args) {
@@ -14,18 +16,18 @@ public class Assignment1_DataTypes {
 		
 		//3. Person's phone number: "123-456-7890"
 		String phone_number="123-456-789";
-		
+		System.out.println("Assignment-2 | Data types");
 		//4. Amount of money in a customer's bank account: 1000.50
 		float Amount_of_money=1000.50f;
 				
 		//5. Person's email address: "john.doe@example.com"
 		String email="likhithaprof@gmail.com";
+		Logger.getLogger("mylog").info("printing log");
 		
 		//6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
-		float latitude=37.7749f;
-		float longitude=-122.4194f;
-				
-		
+		float latitude=1.1f;
+		float longitude=2.2f;
+		System.out.println("Assignment-3 | Data types");
 		//7. Person's marital status: true or false
 		boolean marital_status=false;
 		
@@ -68,6 +70,7 @@ public class Assignment1_DataTypes {
 		//20.Distance between two cities: 200.5
 		float distance=200.5f;
 		
+		Logger.getLogger("mylog").warning("printing log");
 		
 
 	}
