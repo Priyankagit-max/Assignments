@@ -42,16 +42,8 @@ public class Assignment2_arrays {
 		        //print the status of semester4 subject3 and subject6
 		        System.out.println(semester[3][1][2]);
 		        System.out.println(semester[3][1][5]);
-		        
-		        
-		       
-		
-		
-		
 		
 		}
-		
-
 	}
 
 
