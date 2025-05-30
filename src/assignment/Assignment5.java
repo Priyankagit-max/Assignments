@@ -51,8 +51,9 @@ public class Assignment5 {
 		StudentDetails.put("0", JohnDoe);
 		StudentDetails.put("1", JaneSmith);
 		StudentDetails.put("2", MikeBrown);
-		
-		
+		//studentdetails.get("0")
+		//hashmap,linkedhashmap,treemap,hashtable
+		//<key,value>-->
 		
 		
 		List<String> AliceGreen=new ArrayList<String>();

@@ -11,7 +11,6 @@ public class Empgroups extends Employees {
 		System.out.printf("Employee Name: %s, Employee ID: %d\n",obj.Employee_name3,obj.employee_id3);
 		
 		
-		
 
 	}
 
